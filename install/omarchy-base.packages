@@ -15,6 +15,7 @@ brightnessctl
 btop
 
 clang
+code
 cups
 cups-browsed
 cups-filters
@@ -33,6 +34,7 @@ fcitx5
 fcitx5-gtk
 fcitx5-qt
 fd
+firefox
 ffmpegthumbnailer
 fontconfig
 fzf
