@@ -70,7 +70,7 @@ lazygit
 less
 libsecret
 libyaml
-libqalctzupdate
+libqalculate
 libreoffice-fresh
 llvm
 
@@ -106,7 +106,7 @@ python-terminaltexteffects
 qt5-wayland
 ripgrep
 ruby
-rust
+
 satty
 sddm
 
@@ -134,7 +134,7 @@ uwsm
 waybar
 
 whois
-wayfreezess-regdb
+wireless-regdb
 wiremix
 wireplumber
 wl-clipboard
